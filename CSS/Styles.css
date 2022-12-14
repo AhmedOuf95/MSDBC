@@ -18,6 +18,10 @@ body {
     font-size: 24px;
 }
 
+.f-12{
+    font-size: 12px;
+}
+
 .box{
     background: #ffff;
     border-radius: 20px;
